@@ -1,0 +1,7 @@
+h1. Le iMapette
+
+Le iMapette is composed of currently two parts: "Google App Engine Server":https://github.com/kernl/iMapette-Server with a public API and a Android Application which collects geographic positions and uploads them to the server.
+
+h1. Android Application
+
+Periodically saves the currently geographic position of the device and saves it locally (if possible to acquire one from GPS/WiFi). The positions are uploaded when a internet connection is available.

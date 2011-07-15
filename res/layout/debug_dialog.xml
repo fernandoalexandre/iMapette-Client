@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_height="match_parent" android:layout_width="match_parent" android:orientation="vertical" android:padding="5px">
+    <TextView android:text="Tracking/Transmission Services Controls" android:id="@+id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <Button android:text="@string/btn_start_service" android:id="@+id/btn_start_service" android:layout_height="wrap_content" android:layout_width="match_parent"/>
+    <Button android:text="@string/btn_stop_service" android:id="@+id/btn_stop_service" android:layout_height="wrap_content" android:layout_width="match_parent"/>
+    <TextView android:text="Database Operations" android:id="@+id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <Button android:text="@string/btn_trigger_upload" android:id="@+id/btn_upload" android:layout_height="wrap_content" android:layout_width="match_parent"/>
+    <Button android:text="@string/btn_reset_db" android:id="@+id/btn_reset_db" android:layout_height="wrap_content" android:layout_width="match_parent"/>
+    <Button android:text="@string/btn_clear_db" android:id="@+id/btn_clear_db" android:layout_height="wrap_content" android:layout_width="match_parent"/>
+</LinearLayout>

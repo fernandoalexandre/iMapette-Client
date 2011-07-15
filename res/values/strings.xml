@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Le iMaps</string>
+    <string name="btn_start_service">Start Service</string>
+    <string name="btn_stop_service">Stop Service</string>
+    <string name="btn_clear_db">Clear Database</string>
+    <string name="opt_debug">Debugging Options</string>
+    <string name="btn_trigger_upload">Upload Now</string>
+    <string name="btn_sync">Sync with web</string>
+    <string name="btn_reset_db">Reset and Sync</string>
+    <string name="btn_private">Set private</string>
+    <string name="opt_not_private">Set not private</string>
+    <string name="opt_control_panel">User Control Panel</string>
+</resources>
